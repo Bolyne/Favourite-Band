@@ -1,0 +1,14 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: brown;
+    text-decoration: underline;
+}
+body{
+    background-color: darkgray;
+    
+}
+img{
+    width: 800px;
+    height: auto;
+}
