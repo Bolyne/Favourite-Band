@@ -1,6 +1,6 @@
 # Project name
 Favorite band
-![pictures](screenshot.png)
+![pictures](./Pictures/screenshot.png)
 ## Author 
 Bolyne Odhiambo
 
